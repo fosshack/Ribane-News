@@ -1,3 +1,3 @@
 # RIBANE_NEWS
-Basically its for finding the Unbiased News Web App.
+Basically its for finding the unbiased news using a web app.
 We have come up with a better solution to make news widely popular that too giving maximum importance to the accuracy of the news.So to increase the accuracy of the the news provided by medias ,we have made our own algorithm and code for finding the same related news from various news website simultaneously and delivering the exact news which we call it as the unbiased news to the users. Moreover, we have come up with newsletter subscription so that users can get updates from Ribane news desk when there is an updation of news taking place.
